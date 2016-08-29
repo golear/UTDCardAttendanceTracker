@@ -1,0 +1,12 @@
+F:\CardAttendenceTracker\CardAttendenceTracker\bin\Debug\CardAttendenceTracker.exe.config
+F:\CardAttendenceTracker\CardAttendenceTracker\bin\Debug\CardAttendenceTracker.exe
+F:\CardAttendenceTracker\CardAttendenceTracker\bin\Debug\CardAttendenceTracker.pdb
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.csprojResolveAssemblyReference.cache
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.csproj.ResolveComReference.cache
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.MainForm.resources
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.Properties.Resources.resources
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.StudentAdd.resources
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.StudentSelect.resources
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.csproj.GenerateResource.Cache
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.exe
+F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.pdb
