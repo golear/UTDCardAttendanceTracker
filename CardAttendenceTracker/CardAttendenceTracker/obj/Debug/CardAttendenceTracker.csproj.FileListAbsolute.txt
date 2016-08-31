@@ -10,3 +10,7 @@ F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.S
 F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.csproj.GenerateResource.Cache
 F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.exe
 F:\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.pdb
+C:\Users\gxa120930\Desktop\CardAttendenceTracker\CardAttendenceTracker\bin\Debug\CardAttendenceTracker.exe.config
+C:\Users\gxa120930\Desktop\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.csproj.ResolveComReference.cache
+C:\Users\gxa120930\Desktop\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.exe
+C:\Users\gxa120930\Desktop\CardAttendenceTracker\CardAttendenceTracker\obj\Debug\CardAttendenceTracker.pdb

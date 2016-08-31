@@ -61,7 +61,7 @@ namespace CardAttendenceTracker
 
             try
             {
-                System.IO.StreamReader file = new System.IO.StreamReader(filename);
+                StreamReader file = new StreamReader(filename);
                 string record;
                 record = file.ReadLine();
                 if (record != null)
@@ -91,9 +91,9 @@ namespace CardAttendenceTracker
                         for (int d = 0; d < days.Count; d++)
                         {
                             int attendValue = 0;
-                            if (tokens[d] != null)
+                            if (tokens[d+4]!= null)
                             {
-                                int.TryParse(tokens[d], out attendValue);
+                                int.TryParse(tokens[d+4], out attendValue);
                             }
                             if (!temp.Swipe.ContainsKey(days[d]))
                             {
